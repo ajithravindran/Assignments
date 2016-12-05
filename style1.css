@@ -1,0 +1,65 @@
+#main
+ {
+ 
+   border-style:solid;
+   
+   width:100%;
+   
+   padding:5px 5px 5px 5px;
+   
+  }
+
+
+#Header
+ {
+ 
+   border-style:solid;
+   background-color:green;
+   height:100px;
+   
+   
+      
+  }
+
+#navigation
+  {
+ 
+   border-style:solid;
+   background-color:blue;
+  
+   float:left;
+   width:400px;
+   height:300px;
+   margin:10px 10px 10px 10px;
+   
+   
+   
+  }
+
+
+#content
+  {
+ 
+   border-style:solid;
+   background-color:orange;
+    height:300px;
+     margin:10px 10px 10px 10px;
+    
+   
+
+   
+     
+   
+   
+  }
+
+#footer
+{
+
+  border-style:solid;
+  background-color:red;
+  height:100px; 
+   margin:10px 10px 10px 10px;  
+   
+
+}
